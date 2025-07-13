@@ -23,6 +23,6 @@ python metrics.py -m <path to trained model> # Compute error metrics on renderin
 
 
 
-https://liuxuan7720.github.io/Master_Class_Project/project_CV.mp4
+https://liuxuan7720.github.io/Master_Class_Project/assets/project_CV.mp4
 
 
