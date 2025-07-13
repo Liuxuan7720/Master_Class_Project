@@ -18,3 +18,7 @@ python metrics.py -m <path to trained model> # Compute error metrics on renderin
 ```shell
 ./<SIBR install dir>/bin/SIBR_gaussianViewer_app -m <path to trained model>
 ```
+
+### Show
+
+https://liuxuan7720.github.io/Master_Class_Project/project_CV.mp4
