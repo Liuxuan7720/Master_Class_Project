@@ -1,0 +1,4 @@
+# ninja log v5
+0	9904	1751685347446627457	/root/autodl-tmp/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	fc640bb3386b48c7
+0	15693	1751685353233631566	/root/autodl-tmp/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	aa527da9955b702b
+0	53725	1751685391258658567	/root/autodl-tmp/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	67314719ad4a218b
